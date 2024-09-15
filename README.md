@@ -11,14 +11,10 @@ Inspired by [The Pac-Man Dossier](http://home.comcast.net/~jpittman2/pacman/pacm
 - Cutscenes
 - 2 Player switch-off
 
-Contact me at shaunewilliams@gmail.com
-
 License
 -------
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the **GNU General Public License Version 3** as 
-published by the Free Software Foundation.
+Gabriel N. Santana, GNS
 
 Play
 ----
